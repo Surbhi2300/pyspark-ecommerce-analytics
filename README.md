@@ -83,7 +83,9 @@ The dashboard includes:
 - **Revenue by Country:** Comparison of revenue across countries.
 - **Top 10 Products by Revenue:** Ranking by recorded revenue.
 
+
 The product ranking can include postage-related items, so postage charges should be considered when interpreting merchandise performance.
+![E-commerce Sales Analytics Dashboard](dashboard.png)
 
 ## Business Insights
 
